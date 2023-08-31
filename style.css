@@ -88,7 +88,7 @@ body{
     text-decoration: none;
 }
 
-.carousel-container{
+.card-container{
     position: relative;
     width: 100%;
     height: 450px;
@@ -97,7 +97,7 @@ body{
     margin-top: 80px;
 }
 
-.carousel{
+.card{
     display: flex;
     width: 90%;
     height: 100%;

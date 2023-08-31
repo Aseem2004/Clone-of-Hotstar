@@ -31,7 +31,7 @@ let movies = [
     }
 ];
 
-const carousel=document.querySelector('.carousel');
+const card=document.querySelector('.card');
 let sliders=[];
 
 let slideindex=0;
@@ -56,7 +56,7 @@ const createslide = () =>{
     content.appendChild(p);
     slide.appendChild(content);
     slide.appendChild(imgElement);
-    carousel.appendChild(slide);
+    card.appendChild(slide);
 
     
     imgElement.src=movies[slideindex].image;
