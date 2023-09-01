@@ -1,2 +1,3 @@
 # Clone-of-Hotstar
-This is a clone of Hotstar
+Hi everyone <br>
+This is a clone of Hotstar.

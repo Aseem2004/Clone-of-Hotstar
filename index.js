@@ -77,11 +77,11 @@ const createslide = () =>{
 		}px)`;
 	}
 };
-for (let i=0;i<3;i++){
-    createslide();
-}
+// for (let i=0;i<3;i++){
+    // createslide();
+// }
 
 setInterval(() => {
     createslide();
-}, 3000);
+}, 2000);
 
